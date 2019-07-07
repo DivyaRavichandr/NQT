@@ -6,3 +6,13 @@ if count>1:
   print(char,count)
 else:
   print("DOES NOT EXIST")  
+  
+  
+  
+  
+  
+  swapcase************
+  name=input(" ")
+  print(name.swapcase())
+  
+  
